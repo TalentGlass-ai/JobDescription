@@ -1,0 +1,3 @@
+google-generativeai
+google-auth
+requests  # Optional, only if needed
